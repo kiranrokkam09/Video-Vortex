@@ -20,7 +20,7 @@ The project's codebase is organized as follows:
 
   - `components/`: Various components used in the project, each documented with comments explaining its functionality.
   - `App.js`: The main application component.
-  - `index.js`: The entry point of the application.
+  - `index.html`: The entry point of the application.
 
 ## Getting Started
 
