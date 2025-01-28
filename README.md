@@ -83,14 +83,6 @@ This will launch the application locally for testing and development.
 
 We welcome contributions to this project. If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
 
-## Google API Key
-To obtain a Google API Key for this project, follow these steps:
-
-1. Go to the Google Developer Console.
-2. Create a new project.
-3. Manage API's and enable the required APIs for your project.
-4. Create credentials to obtain the API key.
-
 ## Redux Toolkit
 
 - **Updating Data:** To update the data in a Slice of an App store, we dispatch an action using a dispatcher, which, in turn, calls a function to update the slice.
